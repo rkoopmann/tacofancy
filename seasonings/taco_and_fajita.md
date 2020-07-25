@@ -7,9 +7,19 @@ Amazing taco/fajita seasoning – Use with any protein.  It's a great recipe to 
 
 Combine:
 
-2 tsp cumin
-1 tsp EACH: paprika, onion powder, dried oregano, and kosher salt
-½ tsp EACH: ground coriander, garlic powder and black pepper
-¼ tsp EACH: red pepper flakes, ground ginger and cayenne pepper
+- [ ] 2 tsp cumin
+- 1 tsp EACH:
+  - [ ] paprika
+  - [ ] onion powder
+  - [ ] dried oregano
+  - [ ] kosher salt
+- ½ tsp EACH
+  - [ ] ground coriander
+  - [ ] garlic powder
+  - [ ] black pepper
+- ¼ tsp EACH
+  - [ ] red pepper flakes
+  - [ ] ground ginger
+  - [ ] cayenne pepper
 
 tags: vegetarian, vegan
